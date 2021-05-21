@@ -1,0 +1,57 @@
+img{
+    width:320px;
+    min-height:200px;
+}
+
+
+
+image
+{
+    width:320px;
+    min-height:200px;  
+}
+
+
+
+#logo{
+    border-radius: 5;
+    width: 200px;
+    height: 300px;
+}
+body
+{
+background-image: linear-gradient(to right top, #c691f1, #78beec, #fcd0ef, #def394, #006494);
+}
+
+hr{
+    color: maroon;
+}
+
+h1{
+    border-bottom: 3px solid #689F38;   
+  padding: 2px;
+  
+ 
+}
+
+h2{
+    border-bottom: 3px solid #8d63f0;   
+  padding: 2px;
+  
+ 
+}
+p{
+    border-bottom: 3px solid #e76ecd;   
+  padding: 2px;
+  
+ 
+}
+
+
+        .my_nav_bar{
+            position: sticky;
+            top: 0;
+            z-index: 9999;
+            
+         }
+        
